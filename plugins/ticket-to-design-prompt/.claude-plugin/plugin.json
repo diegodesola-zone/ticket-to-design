@@ -1,0 +1,10 @@
+{
+  "name": "ticket-to-design-prompt",
+  "description": "Turn a Jira ticket, epic, and/or Confluence doc into a structured Claude Design prompt for a new prototype or an addition to an existing one, plus a Jira comment to post alongside the design link.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Diego Desola",
+    "email": "diegodesola@zoneandco.com"
+  },
+  "keywords": ["jira", "confluence", "design", "claude-design", "product", "zone"]
+}
