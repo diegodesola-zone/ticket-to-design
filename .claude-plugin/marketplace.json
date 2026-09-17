@@ -9,6 +9,11 @@
       "name": "ticket-to-design-prompt",
       "source": "./plugins/ticket-to-design-prompt",
       "description": "Turn a Jira ticket, epic, and/or Confluence doc into a structured Claude Design prompt, plus a Jira comment to post alongside the design link."
+    },
+    {
+      "name": "pilot-launch-plan",
+      "source": "./plugins/pilot-launch-plan",
+      "description": "Turn a text summary, call transcript, Jira ticket, or Confluence doc into a full pilot plan, published as a Confluence page with goal, participants, timeline, stakeholders, success criteria, and a phase by phase checklist."
     }
   ]
 }

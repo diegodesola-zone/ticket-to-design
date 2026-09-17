@@ -1,0 +1,10 @@
+{
+  "name": "pilot-launch-plan",
+  "description": "Turn a text summary, call transcript, Jira ticket, or Confluence doc into a full pilot plan, published as a Confluence page with goal, participants, timeline, stakeholders, success criteria, and a phase by phase checklist.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Diego Desola",
+    "email": "diegodesola@zoneandco.com"
+  },
+  "keywords": ["pilot", "jira", "confluence", "dovetail", "posthog", "product", "zone"]
+}

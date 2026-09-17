@@ -57,7 +57,8 @@ legal itself.
 
 ## 3. Check relevance to the quarter's KRs
 
-Cross-reference the ticket against the team's OKR tracking doc (its live execution table). If
+Cross-reference the ticket against the OKR tracking doc at
+`plugins/_shared/references/okrs.md` (its live execution table). If
 the work clearly maps to a KR, note which one in the output, and if that KR is currently flagged
 not started, at risk, blocked, or slipped, say so plainly rather than treating it as routine. If
 this round of work is the kind of thing that should be logged somewhere to count toward a KR
@@ -93,7 +94,8 @@ exact scope of the addition.
 
 ## 7. Identify who needs to be looped in
 
-Cross-reference the ticket's product area against the team's directory doc and name the actual
+Cross-reference the ticket's product area against `plugins/_shared/references/team-directory.md`
+(its "Product-area review contacts" table) and name the actual
 person, not "the team", who should review before dev handoff (for example, Jes for ZCC frontend
 work, Anita for Reconcile). Surface this as a line in the reply. Do not message or notify anyone
 automatically as part of this step — this is a heads-up, not an action taken on the user's
